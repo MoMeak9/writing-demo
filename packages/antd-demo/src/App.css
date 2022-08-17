@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.main {
+    background: grey;
+    margin: auto;
+    width: 50vw;
+    height: 400px;
+    overflow: auto;
+}
+
+.list {
+    width: 998px;
+    height: 998px;
+}
+
+.active {
+    background: aqua;
+}
